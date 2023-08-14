@@ -1,0 +1,19 @@
+﻿  assignment.c
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(95,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(95,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(95,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(95,11): message : this argument is used as a buffer size
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(100,12): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint8_t *'
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(100,12): message : consider using '%hhd' in the format string
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(115,35): warning C4047: 'function': 'int32_t *' differs in levels of indirection from 'int32_t (*)[12]'
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(115,29): warning C4024: 'insertionSort': different types for formal and actual parameter 1
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(130,22): warning C4047: 'function': 'int32_t *' differs in levels of indirection from 'int32_t (*)[12]'
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(130,16): warning C4024: 'printArray': different types for formal and actual parameter 1
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(137,12): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint8_t *'
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(137,12): message : consider using '%hhd' in the format string
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(152,32): warning C4047: 'function': 'int32_t *' differs in levels of indirection from 'int32_t (*)[12]'
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(152,26): warning C4024: 'lcsGetSize': different types for formal and actual parameter 1
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(170,22): warning C4047: 'function': 'int32_t *' differs in levels of indirection from 'int32_t (*)[12]'
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(170,16): warning C4024: 'printArray': different types for formal and actual parameter 1
+C:\Users\HP\source\repos\AlgoEmbAssignment\AlgoEmbAssignment\assignment.c(176,8): warning C4013: 'exit' undefined; assuming extern returning int
+  AlgoEmbAssignment.vcxproj -> C:\Users\HP\source\repos\AlgoEmbAssignment\Debug\AlgoEmbAssignment.exe
